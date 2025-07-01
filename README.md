@@ -13,7 +13,6 @@ A full educational system that helps users learn Forex trading with:
 - ✅ Real-time Forex & Gold price integration
 - ✅ Score tracking, leaderboard, and user dashboard
 - ✅ Admin analytics panel with submission logs
-- ✅ AI assistant using Hugging Face NLP
 - ✅ Web (HTML/CSS) + Mobile (React Native/Expo) versions
 
 🌐 [Live Website](https://sisonmarkets.onrender.com)  

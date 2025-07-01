@@ -1,60 +1,57 @@
-## Hi there 👋
+## 👋 Hi, I'm Michael Sison
 
-<!--
-**Cmichael30/Cmichael30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Michael Sison
-
-I'm a self-taught junior backend developer and the founder of **SisonMarkets**, a web and mobile platform that teaches Forex trading through interactive quizzes, real-time data, and an AI-powered assistant.
+💻 Self-Taught Junior Backend Developer | 🎯 Creator of SisonMarkets – a Forex EdTech Web + Mobile Platform  
+📍 Based in Angeles City, Pampanga | Open to Remote Roles & Freelance Work
 
 ---
 
 ## 🧠 What I Build
 
 ### 🔹 SisonMarkets – Forex Learning Platform  
-An educational site and app for beginner to advanced Forex traders  
-- 🌐 [Live Website](https://s-sonmarkets.onrender.com)  
-- 📱 [Mobile App (Expo Build)](https://expo.dev/accounts/cmichael30/projects/sisonmarkets-app)  
-- 💻 [Backend Code (FastAPI)](https://github.com/Cmichael30/forex-backend)
+A full educational system that helps users learn Forex trading with:
+- ✅ Beginner to Pro-level interactive quizzes
+- ✅ Real-time Forex & Gold price integration
+- ✅ Score tracking, leaderboard, and user dashboard
+- ✅ Admin analytics panel with submission logs
+- ✅ AI assistant using Hugging Face NLP
+- ✅ Web (HTML/CSS) + Mobile (React Native/Expo) versions
+
+🌐 [Live Website](https://sisonmarkets.onrender.com)  
+📱 [Mobile App (Expo Build)](https://expo.dev/accounts/cmichael30/projects/sisonmarkets-app)  
+💻 [Backend Code (FastAPI)](https://github.com/Cmichael30/forex-backend)
+
+---
 
 ### 🔹 Mi-Abeabe Alliances  
-A community-driven meme coin trading initiative focused on safe risk strategy, fund rotation, and goal-based tracking
+A community-driven meme coin project focused on safe trading strategies, fund rotation, and educational transparency.
 
 ---
 
 ## 🔧 Tech Stack
+
 - **Languages**: Python, JavaScript  
 - **Frameworks**: FastAPI, React Native (Expo)  
-- **Database**: SQLite  
-- **Tools**: GitHub, Render, Expo Go  
-- **Other Skills**: Community moderation (Telegram/Discord), Forex education, Canva design
+- **Databases**: SQLite (PostgreSQL-ready)  
+- **Tools**: GitHub, Render, Uvicorn, Gmail SMTP  
+- **Other Skills**: Telegram/Discord Moderation, Forex Strategy, Canva Design
 
 ---
 
 ## 🧰 What I'm Open To
 
-I'm looking for:
-- 💼 Junior Backend Developer Roles (Remote or Pampanga-based)
-- 🛠 Freelance API or web admin tasks
-- 🤝 Crypto/Trading community roles (Telegram mod, strategy assistant)
+- 💼 Junior Backend Developer roles (Remote or Pampanga-based)
+- 🛠 Freelance API, admin dashboard, or support tasks
+- 🤝 Crypto/Trading community roles (mod, strategist, tech support)
 
 ---
 
-## 📫 Let’s Connect!
-- Email: **michaelsison0@gmail.com**
-- GitHub: [github.com/Cmichael30](https://github.com/Cmichael30)
+## 📫 Let’s Connect
+
+- 📧 Email: [michaelsison0@gmail.com](mailto:michaelsison0@gmail.com)  
+- 🌍 GitHub: [github.com/Cmichael30](https://github.com/Cmichael30)  
+- 👔 LinkedIn: [Michael Sison](https://www.linkedin.com/in/michael-sison-480002205)  
+- 💼 Upwork: [Michael Sison Profile](https://www.upwork.com/freelancers/~01f72cbdb230b03f15)
 
 ---
 
-> “You’re not obligated to win. You’re obligated to keep trying to do the best you can every day.”
+> “You’re not obligated to win. You’re obligated to keep trying to do the best you can every day.” – Jason Mraz
